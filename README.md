@@ -43,16 +43,22 @@ CV2 GUI – to render the game environment
 This project demonstrates:
 
 Real-time hand gesture recognition
+<br>
 GUI and interaction design with OpenCV
+<br>
 The classic Tower of Hanoi problem-solving using gestures
+<br>
 Beginner-friendly application of computer vision in gaming
 
 
 📚 Educational Value
 
 Learn how to use MediaPipe for gesture-based control
+<br>
 Implement game mechanics using basic Python
+<br>
 Improve UI interaction using only webcam input
+<br>
 Deepen understanding of the Tower of Hanoi recursion logic
 
 ---
@@ -60,6 +66,7 @@ Deepen understanding of the Tower of Hanoi recursion logic
 🙌 Credits
 
 Created by Kunal Singh.
+<br>
 Inspired by the idea of making learning algorithms fun and interactive with modern interfaces like gesture control.
 
 
