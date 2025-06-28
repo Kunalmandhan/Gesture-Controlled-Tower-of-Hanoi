@@ -5,17 +5,25 @@ This project is an interactive, real-time version of the classic Tower of Hanoi 
  📌 Features
 
 ✋ Real-time Hand Gesture Detection using MediaPipe
+<br>
 🧩 Interactive Tower of Hanoi gameplay
+<br>
 🕐 Tracks time taken to complete the puzzle
+<br>
 🎉 Confetti animation when the puzzle is solved
+<br>
 🎮 No mouse or keyboard—just your hand and a webcam!
 
  🛠️ Technologies Used
 
 Python
+<br>
 OpenCV – for webcam access and rendering visuals
+<br>
 MediaPipe – for accurate and efficient hand landmark tracking
+<br>
 Math/Random Modules– for gesture math & animations
+<br>
 CV2 GUI – to render the game environment
 
 ---
